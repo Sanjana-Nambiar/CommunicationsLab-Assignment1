@@ -87,7 +87,7 @@ nav {
 
 .carousel {
     display: flex;
-    width: 400%; /* 3 slides */
+    width: 800%; /* 3 slides */
     height: 100%;
     transition: transform 0.8s ease-in-out;
     background-color: var(--light-violet-1);
